@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "description": "Product 111",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "description": "Product 2",
+      "price": 150.0,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "description": "Description of Product 3, Good quality and affordable.",
+      "price": 79.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "description": "High-end product with premium features.",
+      "price": 120.49,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "description": "Top quality with excellent reviews.",
+      "price": 199.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 5.0
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "description": "Affordable and practical for daily use.",
+      "price": 89.49,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.0
+    },
+    {
+      "id": 7,
+      "title": "Product 7",
+      "description": "Durable and highly rated.",
+      "price": 249.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "title": "Product 8",
+      "description": "Sleek design with modern features.",
+      "price": 45.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 3.8
+    },
+    {
+      "id": 9,
+      "title": "Product 9",
+      "description": "Product 9 with premium quality.",
+      "price": 119.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "title": "Product 10",
+      "description": "Product 10, reliable and efficient.",
+      "price": 199.49,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "title": "Product 11",
+      "description": "The best of its category.",
+      "price": 399.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 12,
+      "title": "Product 12",
+      "description": "Stylish and affordable.",
+      "price": 55.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.3
+    },
+    {
+      "id": 13,
+      "title": "Product 13",
+      "description": "Comfortable and functional.",
+      "price": 72.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "title": "Product 14",
+      "description": "High-performance at a reasonable price.",
+      "price": 110.49,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.4
+    },
+    {
+      "id": 15,
+      "title": "Product 15",
+      "description": "Lightweight and easy to use.",
+      "price": 145.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "title": "Product 16",
+      "description": "Classic design with modern features.",
+      "price": 65.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.1
+    },
+    {
+      "id": 17,
+      "title": "Product 17",
+      "description": "Affordable luxury.",
+      "price": 220.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "title": "Product 18",
+      "description": "Best value for money.",
+      "price": 70.0,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.3
+    },
+    {
+      "id": 19,
+      "title": "Product 19",
+      "description": "An innovative design.",
+      "price": 120.0,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.4
+    },
+    {
+      "id": 20,
+      "title": "Product 20",
+      "description": "Built for performance and style.",
+      "price": 350.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 21,
+      "title": "Product 21",
+      "description": "Sleek and sophisticated.",
+      "price": 199.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 22,
+      "title": "Product 22",
+      "description": "Compact and easy to use.",
+      "price": 80.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.0
+    },
+    {
+      "id": 23,
+      "title": "Product 23",
+      "description": "Perfect for everyday use.",
+      "price": 60.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.2
+    },
+    {
+      "id": 24,
+      "title": "Product 24",
+      "description": "Durable and stylish.",
+      "price": 250.49,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 25,
+      "title": "Product 25",
+      "description": "Compact design with great performance.",
+      "price": 30.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 3.9
+    },
+    {
+      "id": 26,
+      "title": "Product 26",
+      "description": "High quality and durable.",
+      "price": 195.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 27,
+      "title": "Product 27",
+      "description": "Affordable and high-quality product.",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.3
+    },
+    {
+      "id": 28,
+      "title": "Product 28",
+      "description": "Perfect for all your needs.",
+      "price": 149.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 29,
+      "title": "Product 29",
+      "description": "Best quality product with great reviews.",
+      "price": 169.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 30,
+      "title": "Product 30",
+      "description": "A must-have item.",
+      "price": 199.99,
+      "currency": "USD",
+      "image": "https://via.assets.so/img.jpg",
+      "rating": 5.0
+    }
+  ]
+}
